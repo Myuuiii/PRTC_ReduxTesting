@@ -1,0 +1,23 @@
+{
+  "name": "ReduxTesting",
+  "version": "1.0.0",
+  "description": "This is a testing project so I can get to know Redux a little bit more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myuuiii/ReduxTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Myuuiii/ReduxTesting/issues"
+  },
+  "homepage": "https://github.com/Myuuiii/ReduxTesting#readme",
+  "dependencies": {
+    "redux": "^4.1.0"
+  }
+}
